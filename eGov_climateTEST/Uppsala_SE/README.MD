@@ -7,6 +7,7 @@ The GIS data herein is derived from either public documents produced by the Upps
 Download GoogleEarth Pro (which is free) to open/view the KML and KMZ files. https://www.google.com/earth/versions/
 
 ![](google%20earth%20image%20preview%20of%20Uppsala%20Kommune%20.jpg)
+
 ### Prerequisites
 
 To view the GPS data you will need Google Earth Pro or other GIS software. Otherwise there is image file already processed. Such as:
@@ -17,23 +18,17 @@ This analyses which summarizes the actual areas implicated by the planning; area
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
 
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+What infomation is needed to assess the sustainbility of a public project?
+How can this infomation be evaluated?
 
 ```
-Give an example
-```
+
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+A demo of a integrated system, making use oif this data will be hopefully launched in the iOs and Google stores (for free) during Uppsala Climate Week.
 
 ## Built With
 
