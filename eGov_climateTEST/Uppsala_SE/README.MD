@@ -5,6 +5,7 @@ The GIS data herein is derived from either public documents produced by the Upps
 ## Getting Started
 
 Download GoogleEarth Pro (free) to open/view the KML and KMZ files. 
+
 ![](google earth image preview of Uppsala Kommune .jpeg)
 ### Prerequisites
 
