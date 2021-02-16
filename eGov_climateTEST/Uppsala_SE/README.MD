@@ -10,8 +10,11 @@ Download GoogleEarth Pro (which is free) to open/view the KML and KMZ files. htt
 ### Prerequisites
 
 To view the GPS data you will need Google Earth Pro or other GIS software. Otherwise there is image file already processed. Such as:
-
+This analysis which shows how the "green paths" conflict with the actual construction, thus the proposed plan has errors whichg will need to be adjusted (either less green roads, alternative paths, or less buildings). 
 ![](UPPSALA%20PLANS%20FOR%20SÄVJA%20GREEN%20PATHS%20CRASH%20INTO%2020%20BUILDINGS%20lowres.jpg)
+This analyses which summarizes the actual areas implicated by the planning; areas which have been missing from the reports. 
+![](SAVJAm2.jpg)
+
 ### Break down into end to end tests
 
 Explain what these tests test and why
