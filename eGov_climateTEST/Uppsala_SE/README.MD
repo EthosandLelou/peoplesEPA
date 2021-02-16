@@ -4,17 +4,14 @@ The GIS data herein is derived from either public documents produced by the Upps
 
 ## Getting Started
 
-Download GoogleEarth Pro (free) to open/view the KML and KMZ files. 
+Download GoogleEarth Pro (which is free) to open/view the KML and KMZ files. https://www.google.com/earth/versions/
 
 ![](google%20earth%20image%20preview%20of%20Uppsala%20Kommune%20.jpg)
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To view the GPS data you will need Google Earth Pro or other GIS software. Otherwise there is image file already processed. Such as:
 
-```
-Give examples
-```
-
+![](UPPSALA%20PLANS%20FOR%20SÄVJA%20GREEN%20PATHS%20CRASH%20INTO%2020%20BUILDINGS%20lowres.jpg)
 ### Break down into end to end tests
 
 Explain what these tests test and why
