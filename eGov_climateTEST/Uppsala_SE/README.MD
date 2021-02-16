@@ -46,7 +46,7 @@ See the list of [contributors](https://github.com/EthosandLelou/peoplesEPA/contr
 
 ## License
 
-Data Sources for GIS plans Uppalapaketet by Uppsala Municiality 2020 https://bygg.uppsala.se/samhallsbyggnad-utveckling/uppsalapaketet/
+Data Sources for GIS plans Uppalapaketet by Uppsala Municiality 2020 https://bygg.uppsala.se/samhallsbyggnad-utveckling/uppsalapaketet/ https://bygg.uppsala.se/planerade-omraden/sydostra-stadsdelarna/kartor-i-3d/
 
 Data source of green certified buildings in Sweden and Uppsala, Green Building Council ( data accessed 2020 via https://www.sgbc.se/statistik/ and thereafter: "These statistics are based on the information provided by certifying property owners. We reserve the right to make any errors, in accordance with clause 18 of our terms of use https://www.sgbc.se/anvaendaravtal. If you discover errors, please email the respective certification system's inbox or to the office. Contact information can be found here https://www.sgbc.se/kontakt.")  
 
