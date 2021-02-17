@@ -8,7 +8,7 @@ Download GoogleEarth Pro (which is free) to open/view the KML and KMZ files. htt
 
 ![](eGov_climateTEST/Uppsala_SE/google%20earth%20image%20preview%20of%20Uppsala%20Kommune%20.jpg)
 
-![](eGov_climateTEST/Uppsala_SE/3dcloseup.jpg)
+![](https://github.com/EthosandLelou/peoplesEPA/blob/master/eGov_climateTEST/Uppsala_SE/3Dcloseup.jpg)
 Database is in html format so you can just open in any browser. You can copy and past anywhere thereafter and in the bottom right there is different tabs to different tables. 
 ![](Uppsala_SE/using%20the%20html%20db%20of%20green%20buildings.jpg)
 ### Prerequisites
